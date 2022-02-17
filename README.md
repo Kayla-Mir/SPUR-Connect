@@ -21,7 +21,7 @@ SPUR Connect exists to give traveling business professional a tool to maximize t
 
 [SPUR Connect](https://spur-connect.herokuapp.com/)
 
-- Make sure you right click hit inspect and toggle on the mobile view! This app was built for mobile first!
+- Make sure you right click on the screen, hit inspect and toggle on the mobile view! This app was built for mobile first!
 
 ![Screen Shot 2022-02-17 at 10 55 19 AM](https://user-images.githubusercontent.com/89035392/154532580-2c5680fc-5b10-47fb-be14-12454167e6c3.png)
 
